@@ -1,4 +1,3 @@
-订阅
 v2ray
 
 https://raw.githubusercontent.com/AmazingDM/sub/master/v2ray_ssrshare.com
